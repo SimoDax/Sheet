@@ -9,6 +9,9 @@ A quel punto si aprirà una nuova finestra con il foglio raddrizzato, da poter m
 
 ## Esempio:
 
+    $ pip install -r requirements.txt 
+    $ python sheet.py
+
 <a href="url"><img src="./readme_files/source.jpg" align="left" width="720"></a>
 
 <br>
